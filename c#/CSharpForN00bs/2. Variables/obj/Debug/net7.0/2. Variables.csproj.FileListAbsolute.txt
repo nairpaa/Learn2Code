@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/bin/Debug/net7.0/2. Variables
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/bin/Debug/net7.0/2. Variables.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/bin/Debug/net7.0/2. Variables.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/bin/Debug/net7.0/2. Variables.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/bin/Debug/net7.0/2. Variables.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/refint/2. Variables.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/2. Variables.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/2. Variables/obj/Debug/net7.0/ref/2. Variables.dll
