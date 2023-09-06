@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/bin/Debug/net7.0/1. Data Types
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/bin/Debug/net7.0/1. Data Types.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/bin/Debug/net7.0/1. Data Types.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/bin/Debug/net7.0/1. Data Types.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/bin/Debug/net7.0/1. Data Types.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/refint/1. Data Types.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/1. Data Types.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/1. Data Types/obj/Debug/net7.0/ref/1. Data Types.dll
