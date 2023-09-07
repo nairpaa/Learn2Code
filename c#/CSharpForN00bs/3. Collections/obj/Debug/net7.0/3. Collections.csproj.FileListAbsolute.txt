@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/bin/Debug/net7.0/3. Collections
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/bin/Debug/net7.0/3. Collections.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/bin/Debug/net7.0/3. Collections.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/bin/Debug/net7.0/3. Collections.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/bin/Debug/net7.0/3. Collections.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/refint/3. Collections.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/3. Collections.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/3. Collections/obj/Debug/net7.0/ref/3. Collections.dll
