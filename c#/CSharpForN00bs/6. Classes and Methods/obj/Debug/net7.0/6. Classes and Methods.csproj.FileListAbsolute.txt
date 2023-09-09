@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/bin/Debug/net7.0/6. Classes and Methods
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/bin/Debug/net7.0/6. Classes and Methods.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/bin/Debug/net7.0/6. Classes and Methods.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/bin/Debug/net7.0/6. Classes and Methods.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/bin/Debug/net7.0/6. Classes and Methods.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/refint/6. Classes and Methods.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/6. Classes and Methods.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/obj/Debug/net7.0/ref/6. Classes and Methods.dll
