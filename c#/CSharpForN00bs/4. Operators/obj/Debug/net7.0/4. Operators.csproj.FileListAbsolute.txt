@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/bin/Debug/net7.0/4. Operators
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/bin/Debug/net7.0/4. Operators.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/bin/Debug/net7.0/4. Operators.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/bin/Debug/net7.0/4. Operators.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/bin/Debug/net7.0/4. Operators.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/refint/4. Operators.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/4. Operators.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/4. Operators/obj/Debug/net7.0/ref/4. Operators.dll

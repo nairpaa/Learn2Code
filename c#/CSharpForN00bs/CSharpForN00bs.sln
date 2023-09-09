@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Variables", "2. Variable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Collections", "3. Collections\3. Collections.csproj", "{E8613A8C-5C8F-4F14-992A-A16731A864E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Operators", "4. Operators\4. Operators.csproj", "{767A3FEE-B0EB-4CF0-BED1-53A74CDEB6EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E8613A8C-5C8F-4F14-992A-A16731A864E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8613A8C-5C8F-4F14-992A-A16731A864E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8613A8C-5C8F-4F14-992A-A16731A864E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767A3FEE-B0EB-4CF0-BED1-53A74CDEB6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767A3FEE-B0EB-4CF0-BED1-53A74CDEB6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767A3FEE-B0EB-4CF0-BED1-53A74CDEB6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767A3FEE-B0EB-4CF0-BED1-53A74CDEB6EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
