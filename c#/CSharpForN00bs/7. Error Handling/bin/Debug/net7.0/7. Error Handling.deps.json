@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "7. Error Handling/1.0.0": {
+        "runtime": {
+          "7. Error Handling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7. Error Handling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

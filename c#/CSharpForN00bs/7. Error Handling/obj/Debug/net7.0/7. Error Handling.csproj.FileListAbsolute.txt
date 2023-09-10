@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/bin/Debug/net7.0/7. Error Handling
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/bin/Debug/net7.0/7. Error Handling.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/bin/Debug/net7.0/7. Error Handling.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/bin/Debug/net7.0/7. Error Handling.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/bin/Debug/net7.0/7. Error Handling.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/refint/7. Error Handling.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/7. Error Handling.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/7. Error Handling/obj/Debug/net7.0/ref/7. Error Handling.dll
