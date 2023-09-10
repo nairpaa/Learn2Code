@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/bin/Debug/net7.0/8. Generic Types
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/bin/Debug/net7.0/8. Generic Types.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/bin/Debug/net7.0/8. Generic Types.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/bin/Debug/net7.0/8. Generic Types.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/bin/Debug/net7.0/8. Generic Types.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/refint/8. Generic Types.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/8. Generic Types.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/obj/Debug/net7.0/ref/8. Generic Types.dll
