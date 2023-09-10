@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/bin/Debug/net7.0/10. LINQ
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/bin/Debug/net7.0/10. LINQ.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/bin/Debug/net7.0/10. LINQ.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/bin/Debug/net7.0/10. LINQ.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/bin/Debug/net7.0/10. LINQ.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/refint/10. LINQ.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/10. LINQ.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/10. LINQ/obj/Debug/net7.0/ref/10. LINQ.dll
