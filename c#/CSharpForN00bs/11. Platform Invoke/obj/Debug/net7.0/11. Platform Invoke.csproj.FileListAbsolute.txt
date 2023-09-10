@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/bin/Debug/net7.0/11. Platform Invoke
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/bin/Debug/net7.0/11. Platform Invoke.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/bin/Debug/net7.0/11. Platform Invoke.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/bin/Debug/net7.0/11. Platform Invoke.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/bin/Debug/net7.0/11. Platform Invoke.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/refint/11. Platform Invoke.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/11. Platform Invoke.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/11. Platform Invoke/obj/Debug/net7.0/ref/11. Platform Invoke.dll

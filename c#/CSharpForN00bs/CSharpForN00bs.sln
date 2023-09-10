@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Concurrency", "9. Concur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. LINQ", "10. LINQ\10. LINQ.csproj", "{386BD566-8D37-40CC-88B2-957D59703BBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Platform Invoke", "11. Platform Invoke\11. Platform Invoke.csproj", "{B494DB6E-7740-4126-895C-0A6E8F17FEB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{386BD566-8D37-40CC-88B2-957D59703BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{386BD566-8D37-40CC-88B2-957D59703BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{386BD566-8D37-40CC-88B2-957D59703BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B494DB6E-7740-4126-895C-0A6E8F17FEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B494DB6E-7740-4126-895C-0A6E8F17FEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B494DB6E-7740-4126-895C-0A6E8F17FEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B494DB6E-7740-4126-895C-0A6E8F17FEB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
