@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/bin/Debug/net7.0/9. Concurrency
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/bin/Debug/net7.0/9. Concurrency.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/bin/Debug/net7.0/9. Concurrency.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/bin/Debug/net7.0/9. Concurrency.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/bin/Debug/net7.0/9. Concurrency.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/refint/9. Concurrency.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/9. Concurrency.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/obj/Debug/net7.0/ref/9. Concurrency.dll
