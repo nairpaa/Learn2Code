@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LLFaRg2nFmPOFPznOB2hCcvsQ113Apf9HfMHrls5EvDGveBgf9cckIbE/PdWbnCGxp9Oi9UH0sQL7xBStkaSRw==",
+  "dgSpecHash": "m/K4rHsGtIGLaxJemxLj4usasjOmgw0UfYlfYXYGyvalOTMwvMaOvxShfL0lHAA4iq3wXmdbrcFZgxfQ/6Ghsw==",
   "success": true,
   "projectFilePath": "/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/9. Concurrency/9. Concurrency.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/spenter4/.nuget/packages/restsharp/110.2.1-alpha.0.11/restsharp.110.2.1-alpha.0.11.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9Tv/exk/2KV+qJIknfiuaqkK7KjZVxjD83RIyj2PGhtt0wwLm8hAc8tXqrzMoDWJ92mYVo5WZoZsX+bc3WxtQg==",
+  "dgSpecHash": "2FqW6Q+cbBOx5N0OsBD2PYsCoTNLJxnF0eibvrAKT8BPV7J7/7URB5MpS2YNN2ZTc5PMj7Tou0Vi+A/kROeAAQ==",
   "success": true,
   "projectFilePath": "/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/8. Generic Types/8. Generic Types.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/spenter4/.nuget/packages/restsharp/110.2.1-alpha.0.11/restsharp.110.2.1-alpha.0.11.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

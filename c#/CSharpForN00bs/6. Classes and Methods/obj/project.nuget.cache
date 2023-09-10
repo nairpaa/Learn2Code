@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t9KLfTIP0JuASRtTFKiNIQc265XUb2xVlkbHgo6A2WCd4NdHBI60AsoEkk6wWTE3IDsHmEhXqiAzrWrxgGMdVw==",
+  "dgSpecHash": "7aqtc/opjcCT68tpafLBdlg+5OSkw14v5MmHi7XarJOMGKqCnUh695q/XOjQ2KbVFI9q12AVO4F3b2UstVTN9g==",
   "success": true,
   "projectFilePath": "/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/6. Classes and Methods/6. Classes and Methods.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/spenter4/.nuget/packages/restsharp/110.2.1-alpha.0.11/restsharp.110.2.1-alpha.0.11.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

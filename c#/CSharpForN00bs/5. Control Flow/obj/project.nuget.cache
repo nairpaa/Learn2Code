@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9z1QUu96qiyl8KdeohnaHqEgrkR14wB1biSb6Kj37+wBaaXSawallWZWzQUE+dF2wkaJUGifBpsMtPAifeK/Lw==",
+  "dgSpecHash": "w1JiNF6oTNtkZ0cLFMtAEm9tbmQ1zLaz5Sr4n/IAqNVzeczTY+ec/S4en+8wvmOclNVXAUFuY95Nwq+WiRepXg==",
   "success": true,
   "projectFilePath": "/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/5. Control Flow/5. Control Flow.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/spenter4/.nuget/packages/restsharp/110.2.1-alpha.0.11/restsharp.110.2.1-alpha.0.11.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/spenter4/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
