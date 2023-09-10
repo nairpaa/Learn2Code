@@ -1,0 +1,15 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/bin/Debug/net7.0/13. Capstone Project
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/bin/Debug/net7.0/13. Capstone Project.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/bin/Debug/net7.0/13. Capstone Project.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/bin/Debug/net7.0/13. Capstone Project.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/bin/Debug/net7.0/13. Capstone Project.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/refint/13. Capstone Project.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/13. Capstone Project.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/13. Capstone Project/obj/Debug/net7.0/ref/13. Capstone Project.dll
