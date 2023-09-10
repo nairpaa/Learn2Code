@@ -1,0 +1,17 @@
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/bin/Debug/net7.0/12. NuGet
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/bin/Debug/net7.0/12. NuGet.deps.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/bin/Debug/net7.0/12. NuGet.runtimeconfig.json
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/bin/Debug/net7.0/12. NuGet.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/bin/Debug/net7.0/12. NuGet.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/bin/Debug/net7.0/RestSharp.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.csproj.AssemblyReference.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.AssemblyInfoInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.AssemblyInfo.cs
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.csproj.CoreCompileInputs.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.csproj.CopyComplete
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/refint/12. NuGet.dll
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.pdb
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/12. NuGet.genruntimeconfig.cache
+/Users/spenter4/Documents/Labs/Learn2Code/c#/CSharpForN00bs/12. NuGet/obj/Debug/net7.0/ref/12. NuGet.dll
